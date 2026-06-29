@@ -29,7 +29,7 @@ export default function Navigation({ activeSection, onNavigate }: NavigationProp
         >
           <Compass className="w-5 h-5 text-terracotta group-hover:rotate-45 transition-transform duration-500" />
           <span className="font-display text-sm tracking-[0.2em] text-dark-green group-hover:text-terracotta transition-colors duration-300">
-            Eco-Guide
+            Eco Guide
           </span>
         </div>
 
